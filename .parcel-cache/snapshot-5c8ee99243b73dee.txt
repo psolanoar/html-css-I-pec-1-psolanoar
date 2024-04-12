@@ -1,21 +1,21 @@
 10350
-79/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/home.html1712924367272111658 0
-87/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/presentation.html1712912720465349339 0
-84/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/home.html1712924627048774131 0
-92/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/presentation.html1712924627048774131 0
-96/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/links.996ae26d.js.map1712924627080774679 0
-99/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/category.8efff1da.js.map1712924627080774679 0
-95/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/home.1e54578d.js.map1712924627080774679 0
-92/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/links.996ae26d.js1712924627076774611 0
-99/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/presentation.2ed915e6.js1712924627076774611 0
-96/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/home.fffbd23f.css.map1712924641709024473 0
-121/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/pexels-aleksandar-pasaric-2078076.fd4169e1.jpg1712924627084774748 0
-103/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/presentation.2ed915e6.js.map1712924627080774679 0
-86/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/detail.html1712924627048774131 0
-92/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/home.fffbd23f.css1712924641705024406 0
-74/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist1712924641709024473 1
-93/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets/styles/main.scss1712916091820761558 0
-91/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets/styles/layouts1712905258981071481 1
+79/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/home.html1712957271505812100 0
+87/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/presentation.html1712955221700294859 0
+84/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/home.html1712957378278107294 0
+92/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/presentation.html1712957378278107294 0
+96/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/links.996ae26d.js.map1712957378306107373 0
+99/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/category.8efff1da.js.map1712957378306107373 0
+95/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/home.1e54578d.js.map1712957378306107373 0
+92/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/links.996ae26d.js1712957378302107361 0
+99/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/presentation.2ed915e6.js1712957378302107361 0
+96/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/home.fffbd23f.css.map1712957378278107294 0
+121/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/pexels-aleksandar-pasaric-2078076.fd4169e1.jpg1712957378306107373 0
+103/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/presentation.2ed915e6.js.map1712957378306107373 0
+86/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/detail.html1712948592135458728 0
+92/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/home.fffbd23f.css1712957378278107294 0
+74/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist1712957378310107382 1
+93/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets/styles/main.scss1712956192506831972 0
+91/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets/styles/layouts1712955974922234941 1
 83/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets/styles1712906634609120051 1
 113/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets/images/pexels-edward-eyer-811838.jpg1712920514424463318 0
 76/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets1712905473625703208 1
@@ -205,7 +205,7 @@
 99/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/ansi-styles/index.js1712731849990469700 0
 104/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/5/ToNumber.js1712735659061713914 0
 102/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/csso/cjs/clean/Rule.cjs1712731850250470427 0
-80/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/links.html1712912723741392282 0
+80/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/links.html1712955229456311812 0
 102/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/lmdb/dist/index.cjs.map1712731850502471132 0
 117/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@swc/helpers/src/_class_call_check.mjs1712731850642471524 0
 108/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2024/IsPromise.js1712735658961713495 0
@@ -924,7 +924,7 @@
 107/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2022/ToObject.js1712735659061713914 0
 113/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/abortcontroller-polyfill/README.md1712731850174470215 0
 103/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/abortcontroller-polyfill1712731850166470192 1
-99/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets/styles/_variables.scss1712924732142545107 0
+99/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets/styles/_variables.scss1712957036921163640 0
 107/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@swc/helpers/esm/_dispose.js1712731850386470808 0
 120/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@lmdb/lmdb-linux-x64/node.napi.glibc.node1712731850394470830 0
 96/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/resolve/.eslintrc1712735658641712155 0
@@ -963,7 +963,7 @@
 102/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2024/max.js1712735658981713580 0
 106/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/jackspeak/dist/esm/index.js1712735658725712507 0
 124/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@swc/helpers/src/_class_private_field_get.mjs1712731850646471535 0
-85/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/links.html1712924627048774131 0
+85/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/links.html1712957378278107294 0
 95/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/lmdb/src/dbi.cpp1712731850426470919 0
 142/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/replace/Url.js1712731850310470594 0
 106/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/semver/functions/compare.js1712731850090469978 0
@@ -1643,7 +1643,7 @@
 100/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/strip-ansi/index.d.ts1712735658673712289 0
 103/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@lezer/lr/dist/index.cjs1712731850054469878 0
 112/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/css-select/lib/esm/index.d.ts.map1712731850274470494 0
-93/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/detail.63639b6d.js1712924627076774611 0
+93/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/detail.63639b6d.js1712948592119458645 0
 110/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/caniuse-lite/data/regions/GB.js1712731850578471344 0
 111/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/get-symbol-description/README.md1712735658729712524 0
 114/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/normalize-package-data/lib/fixer.js1712735658705712423 0
@@ -2019,7 +2019,7 @@
 102/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/css-select/package.json1712731850226470360 0
 161/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/definition-syntax/generate.js1712731850354470718 0
 105/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2016/ToInt8.js1712735659053713882 0
-65/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec11712913137506939506 1
+65/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec11712943905568652445 1
 121/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/rimraf/dist/commonjs/readdir-or-error.d.ts1712735658849713027 0
 118/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/svgo/plugins/convertOneStopGradients.js1712731850342470683 0
 115/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2020/Number/remainder.js1712735659009713697 0
@@ -3153,7 +3153,7 @@
 110/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/spdx-expression-parse/README.md1712735658701712408 0
 141/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/csso/node_modules/css-tree/cjs/definition-syntax/tokenizer.cjs1712731850414470886 0
 122/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/caniuse-lite/data/features/css-image-set.js1712731850466471031 0
-81/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/detail.html1712912728545455293 0
+81/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/detail.html1712955238288331281 0
 109/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/rimraf/dist/esm/default-tmp.js1712735658705712423 0
 104/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/5/TimeClip.js1712735659041713831 0
 110/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/caniuse-lite/data/regions/KW.js1712731850630471490 0
@@ -3383,7 +3383,7 @@
 120/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/csso/node_modules/mdn-data/css/units.json1712731850266470472 0
 110/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/is-shared-array-buffer/index.js1712735658661712239 0
 104/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/semver/functions/major.js1712731850186470248 0
-95/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/category.8efff1da.js1712924627076774611 0
+95/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/category.8efff1da.js1712957378302107361 0
 114/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2024/GetSubstitution.js1712735658925713346 0
 120/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2022/TypedArrayElementType.js1712735659073713965 0
 116/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/caniuse-lite/data/features/history.js1712731850594471389 0
@@ -3814,7 +3814,7 @@
 118/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2015/OrdinaryHasProperty.js1712735659001713663 0
 129/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/caniuse-lite/data/features/css-media-resolution.js1712731850478471065 0
 110/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/string.prototype.trimend/.nycrc1712735658649712189 0
-91/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/home.1e54578d.js1712924627076774611 0
+91/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/home.1e54578d.js1712957378302107361 0
 141/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeDesc.js1712731850290470539 0
 105/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/safe-array-concat/index.js1712735658661712239 0
 97/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/lmdb/src/windows.c1712731850406470864 0
@@ -5482,7 +5482,7 @@
 118/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2024/ToIntegerOrInfinity.js1712735659057713897 0
 118/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/csso/node_modules/css-tree/package.json1712731850562471299 0
 110/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2020/GetIterator.js1712735658921713328 0
-88/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/category.html1712924627048774131 0
+88/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/category.html1712957378278107294 0
 117/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/css-tree/lib/syntax/node/IdSelector.js1712731850502471132 0
 127/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/css-tree/lib/syntax/node/index-parse-selector.js1712731850506471143 0
 128/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/css-tree/lib/syntax/node/PseudoElementSelector.js1712731850534471221 0
@@ -6865,7 +6865,7 @@
 109/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/safe-array-concat/package.json1712735658693712373 0
 135/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/xast.js1712731850390470819 0
 125/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2018/tables/typed-array-objects.js1712735659073713965 0
-83/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/category.html1712912732817511360 0
+83/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/category.html1712955243236342262 0
 117/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2018/IsConcatSpreadable.js1712735658953713462 0
 111/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2018/DateFromTime.js1712735658893713212 0
 111/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/resolve/test/dotdot/abc/index.js1712735658817712893 0
@@ -7164,7 +7164,7 @@
 107/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/domutils/lib/manipulation.js1712731850066469912 0
 125/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/foreground-child/node_modules/path-key/license1712735658641712155 0
 104/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@parcel/core/lib/requests1712731850526471199 1
-97/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/detail.63639b6d.js.map1712924627080774679 0
+97/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/dist/detail.63639b6d.js.map1712948592135458728 0
 110/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2015/ToPrimitive.js1712735659061713914 0
 114/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-abstract/2015/GetSubstitution.js1712735658925713346 0
 96/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/for-each/index.js1712735658669712274 0
@@ -8538,7 +8538,7 @@
 103/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/is-callable/CHANGELOG.md1712735658721712490 0
 98/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/is-callable/.github1712735658745712591 1
 91/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/@swc/counter1712731850006469744 1
-102/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets/styles/layouts/_home.scss1712924705466100566 0
+102/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/src/assets/styles/layouts/_home.scss1712957424382234767 0
 88/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-errors1712735658769712691 1
 118/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/caniuse-lite/data/features/svg-html5.js1712731850726471758 0
 96/home/patri/Escritorio/Uoc 2023-2024/Semestre 2/Html y css I/pec1/node_modules/es-errors/LICENSE1712735658641712155 0

@@ -5,65 +5,94 @@
   font-size: 14px;
 }
 
-.main {
+.home {
   color: #000;
   background-image: url("pexels-aleksandar-pasaric-2078076.fd4169e1.jpg");
   background-size: cover;
   width: auto;
-  height: 700px;
+  height: 800px;
   padding: 5%;
 }
 
-.title {
+.home .home__title--style {
   text-align: center;
+  padding-top: 20%;
   font-size: 64px;
 }
 
-.header {
-  padding: 3%;
+.home .home__header {
+  padding: 1%;
 }
 
-.header .navigation__menu {
+.home .home__header .home__navigation__menu {
   color: #301818;
 }
 
-.header .navigation__menu--options {
+.home .home__header .home__navigation__menu--options {
+  text-align: center;
   list-style-type: none;
 }
 
-.header .navigation__menu--options--option {
+.home .home__header .home__navigation__menu--options--option {
   padding: 3%;
 }
 
-.header .navigation__menu--options--option--link {
+.home .home__header .home__navigation__menu--options--option--link {
   color: #000;
   text-decoration: none;
 }
 
-.header .navigation__menu--options--option--link:hover {
+.home .home__header .home__navigation__menu--options--option--link:hover {
   color: #301818;
 }
 
-.footer {
+.home__footer {
   text-align: center;
   color: #fafafa;
-  background-color: #525252;
+  background-color: #252525;
   width: 100%;
   margin-top: 1.5rem;
   padding-top: 5%;
   padding-bottom: 20%;
   font-size: 12px;
+  line-height: 30px;
   position: absolute;
   bottom: 0%;
 }
 
+.home__footer .home__footer--link {
+  color: #fafafa;
+  text-decoration: none;
+  list-style-type: none;
+}
+
 @media (width >= 481px) {
-  .navigation__menu--options--option {
+  .home__navigation__menu--options {
+    text-align: center;
+  }
+
+  .home__navigation__menu--options .home__navigation__menu--options--option {
     display: inline;
   }
 
-  .footer {
-    padding-bottom: 10%;
+  .home__footer {
+    padding-bottom: 5%;
+  }
+}
+
+@media (width >= 481px) and (width <= 1024px) {
+  .home__title--style {
+    padding-top: 20%;
+  }
+}
+
+@media (width >= 1025px) {
+  .home__title--style {
+    padding-top: 10%;
+  }
+
+  .home__navigation__menu--options--option {
+    padding: 1%;
   }
 }
 /*# sourceMappingURL=home.fffbd23f.css.map */
