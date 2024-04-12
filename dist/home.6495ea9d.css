@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  background-color: red;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.body--margin {
+  margin: 0%;
+}
+
+header {
+  background-color: #462727;
+}
+/*# sourceMappingURL=home.6495ea9d.css.map */

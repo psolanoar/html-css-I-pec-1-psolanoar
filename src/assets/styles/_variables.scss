@@ -1,0 +1,41 @@
+// Responsive measures 
+$tablet-min-devices: 481px;
+$tablet-max-devices: 1024px;
+$desktop-min-devices: 1025px;
+
+// Colors
+$color-one: #301818;
+$color-two: #fafafa;
+$color-three: #000000;
+$color-four: #525252;
+
+// Fonts styles
+$font-family-text: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+// Fonts sizes
+$font-size-title: 64px;
+$font-size-text: 14px;
+$font-size-text-footer: 12px;
+
+// Values
+$value-zero: 0%;
+$value-one: 1%;
+$value-two: 2%;
+$value-three: 3%;
+$value-five: 5%;
+$value-ten: 10%;
+$value-twelve: 20%;
+$value-hundred: 100%;
+$value-seven-hundred: 700px;
+
+// Variables
+$value-none: none;
+$value-inline: inline;
+$value-flex: flex;
+$value-center: center;
+$value-absolute: absolute;
+$value-auto: auto;
+$value-cover: cover;
+
+// Footer
+$one-half-rem: 1.5rem;

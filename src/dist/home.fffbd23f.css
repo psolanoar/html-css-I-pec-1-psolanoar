@@ -1,0 +1,69 @@
+* {
+  position: flex;
+  margin: 0%;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+}
+
+.main {
+  color: #000;
+  background-image: url("pexels-aleksandar-pasaric-2078076.fd4169e1.jpg");
+  background-size: cover;
+  width: auto;
+  height: 700px;
+  padding: 5%;
+}
+
+.title {
+  text-align: center;
+  font-size: 64px;
+}
+
+.header {
+  padding: 3%;
+}
+
+.header .navigation__menu {
+  color: #301818;
+}
+
+.header .navigation__menu--options {
+  list-style-type: none;
+}
+
+.header .navigation__menu--options--option {
+  padding: 3%;
+}
+
+.header .navigation__menu--options--option--link {
+  color: #000;
+  text-decoration: none;
+}
+
+.header .navigation__menu--options--option--link:hover {
+  color: #301818;
+}
+
+.footer {
+  text-align: center;
+  color: #fafafa;
+  background-color: #525252;
+  width: 100%;
+  margin-top: 1.5rem;
+  padding-top: 5%;
+  padding-bottom: 20%;
+  font-size: 12px;
+  position: absolute;
+  bottom: 0%;
+}
+
+@media (width >= 481px) {
+  .navigation__menu--options--option {
+    display: inline;
+  }
+
+  .footer {
+    padding-bottom: 10%;
+  }
+}
+/*# sourceMappingURL=home.fffbd23f.css.map */

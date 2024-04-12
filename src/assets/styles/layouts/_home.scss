@@ -1,0 +1,78 @@
+* {
+  font-family: $font-family-text;
+  font-size: $font-size-text;
+  margin: $value-zero;
+  position: $value-flex;
+}
+
+.main { 
+  padding: $value-five;
+  color: $color-three;
+  background-image:url("../images/pexels-aleksandar-pasaric-2078076.jpg");
+  background-size: $value-cover;
+  width: $value-auto;
+  height: $value-seven-hundred;
+}
+
+.title {
+  font-size: $font-size-title;
+  text-align: $value-center;
+}
+
+.header {
+
+  padding: $value-three;
+
+  .navigation__menu {
+    color: $color-one;
+  }
+
+  .navigation__menu--options {
+    list-style-type: $value-none;
+  }
+
+  .navigation__menu--options--option {
+    padding: $value-three;
+  }
+
+  .navigation__menu--options--option--link {
+    text-decoration: $value-none;
+    color: $color-three;
+  }
+
+  .navigation__menu--options--option--link:hover {
+    color: $color-one;
+  }
+}
+
+.footer {
+  margin-top: $one-half-rem;
+  font-size: $font-size-text-footer;
+  text-align: $value-center;
+  padding-top: $value-five;
+  padding-bottom: $value-twelve;
+  background-color: $color-four;
+  position: $value-absolute;
+  bottom: $value-zero;
+  width: $value-hundred;
+  color: $color-two;
+}
+
+/* media query styles adapted for tablets and desktops*/
+@media (min-width: $tablet-min-devices) {
+  .navigation__menu--options--option {
+    display: $value-inline;
+  }
+  .footer {
+    padding-bottom: $value-ten;
+  }
+}
+
+/* media query for tablets */
+@media (min-width: $tablet-min-devices) and (max-width: $tablet-max-devices) {
+}
+
+/* media query for desktops */
+@media (min-width: $desktop-min-devices) {
+
+}
