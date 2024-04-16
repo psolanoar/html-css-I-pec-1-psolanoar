@@ -2,29 +2,102 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>Portada</title>
+    <title>Categoría</title>
     <link rel="stylesheet" type="text/css" href="./assets/styles/main.scss"/>
   </head>
-  <body>
-    <main class="main">
-      <header class="header">
-        <nav class="navigation__menu">
-          <ul class="navigation__menu--options">
-            <li class="navigation__menu--options--option"><a class="navigation__menu--options--option--link" href="home.html">Portada</a></li>
-            <li class="navigation__menu--options--option"><a class="navigation__menu--options--option--link" href="category.html">Categoría</a></li>
-            <li class="navigation__menu--options--option"><a class="navigation__menu--options--option--link" href="presentation.html">Presentación</a></li>
-            <li class="navigation__menu--options--option"><a class="navigation__menu--options--option--link" href="links.html">Enlaces</a></li>
+  <body class="detail">
+    <main>
+      <header class="header element--color--contrast ">
+        <nav class="header__navigation__menu">
+          <ul class="header__navigation__menu--options">
+            <li class="header__navigation__menu--options--option"><a class="header__navigation__menu--options--option--link" href="home.html">Portada</a></li>
+            <li class="header__navigation__menu--options--option"><a class="header__navigation__menu--options--option--link" href="category.html">Categoría</a></li>
+            <li class="header__navigation__menu--options--option"><a class="header__navigation__menu--options--option--link" href="presentation.html">Presentación</a></li>
+            <li class="header__navigation__menu--options--option"><a class="header__navigation__menu--options--option--link" href="links.html">Enlaces</a></li>
           </ul>
         </nav>
       </header>
-      <h1 class="title--style">Guns N'Roses</h1>
-    </main>
 
-    <footer class="footer">
+      <h1 class="detail__title--style">Haciendo historia a través de los conciertos</h1>
+
+      <div class="detail__container">
+        <div class="detail__container__modul--flex">
+
+          <h2 class="detail__container--subtitle ">Primera actuación</h2>
+          <article class="detail__container__modul--flex--column">
+            <p>
+              A mediados de los años ochenta, surgio Guns N' Roses en California, EEUU. Desde entonces
+              su influencia en el mundo del Rock ha sido significativa a pesar de que los miembros del grupo han ido cambiando. 
+              Entre sus actuaciones, marco su carrera su primera actuación como tal, en Trobadour el 6 de Junio de 1985 donde era inimaginable
+              lo lejos que llegarían y las vidas que influciarian.
+            </p>
+          </article>
+          
+            <h2 class="detail__container--subtitle ">Alcance éxito mundial</h2>
+            <article class="detail__container__modul--flex--column">
+              <p>
+                En los años noventa, la banda se vio comprometisa en algunas asuntos o infortunios, hasta tal punto 
+                que debieron reducir el aforo por medidas de seguridad en Argenitina debido a un rumor de Axl Rose. No obstante,
+                su tema Use Your Ilussion sonaba constatemente en las radios a nivel mundial. Algunos de los integrantes del 
+                grupo se enfocaron en sus proyectos personales pero se culminaron como uno de los mayores representantes del 
+                hard rock de los años noventa.
+              </p>
+            </article>
+
+            <h2 class="detail__container--subtitle ">Reaparición en escena</h2>
+            <article class="detail__container__modul--flex--column">
+              <p>
+                Tras trabajar en un nuevo albúm, el grupo apareció encabezando el festival en Rock in Rio, 
+                frente a unos 200.000 espectadores entraron en escena con su mitico tema Welcome to the jungle.
+                dejando al público impresionado con su aparición en escena.
+              </p>
+          </article>
+        </div>
+
+        <div class="detail__container__modul--flex">
+
+          <h2 class="detail__container--subtitle">6 de Junio de 1985, The Troubadour</h2>
+          <div class="detail__container__modul--flex--column">
+            <iframe 
+              width="560" height="315" src="https://www.youtube.com/embed/OmUNrdR8iu4?si=oKF0FmhxaB5WyZrf" title="YouTube video player" frameborder="0" allow="accelerometer; 
+              autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+            </iframe>
+
+            <h2 class="detail__container--subtitle">16 y 17 de Julio de 1993, Buenos Aires</h2>
+            <iframe 
+              width="560" height="315" src="https://www.youtube.com/embed/Qe8h6O1BtmY?si=NK6TZx3uIgreaf_v" title="YouTube video player" frameborder="0" allow="accelerometer;
+              autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+            </iframe>
+
+            <h2 class="detail__container--subtitle">2001, Rock In Rio</h2>
+            <iframe 
+              width="560" height="315" src="https://www.youtube.com/embed/zxanrodW1nE?si=m-eH3-5yPeD1exia" title="YouTube video player" frameborder="0" allow="accelerometer;
+              autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+            </iframe>
+          </div>
+        </div>
+
+      <div class="detail__container__frame element--centered--text">
+        <h2 class="detail__container--subtitle element--centered--text">Última Gira / Norte América 2023</h2>
+        <ul class="detail__container__frame--one--column element--centered--text">
+          <li>Nov 5 2023 / Hell And Heaven Fest Toluca / MX</li>
+          <li>Nov 2 2023 / The Hollywood BowlLos Angeles / CA</li>
+          <li>Nov 1 2023 / The Hollywood Bowl, Los Angeles / CA</li>
+          <li>Oct 27 2023 / Ball Arena Denver / CO</li>
+          <li>Oct 22 2023 / Ford Idaho Center / Nampa, ID</li>
+          <li>Oct 19 2023 / Rogers Place Edmonton / CA</li>
+          <li>Oct 16 2023 / BC Place Stadium Vancouver / CA</li>
+        </ul>
+      </div>
+        
+      </div>
+    </main>
+    
+    <footer class="footer element--fixed ">
       <p>Síguenos en 
         <a class="footer--link" href="//www.facebook.com/">Instagram</a>
         <a class="footer--link" href="https://www.instagram.com/">Facebook</a>
-    </p>
+      </p>
       <p>Universitat Oberta de Catalunya ©Copyright 2024 Patricia Solano Arenas</p>
     </footer>
   </body>

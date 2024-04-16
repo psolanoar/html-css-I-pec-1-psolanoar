@@ -1,84 +1,226 @@
 * {
   font-family: $font-family-text;
   font-size: $font-size-text;
-  margin: $value-zero;
   position: $value-flex;
 }
 
+.header {
+  padding: $value-one;
+
+  .header__navigation__menu {
+    color: $color-one;
+  }
+
+  .header__navigation__menu--options {
+    list-style-type: $value-none;
+    text-align: $value-center;
+  }
+
+  .header__navigation__menu--options--option {
+    padding: $value-three;
+  }
+
+  .header__navigation__menu--options--option--link {
+    text-decoration: $value-none;
+    color: $color-three;
+  }
+
+  .header__navigation__menu--options--option--link:hover {
+    color: $color-nine;
+  }
+}
+
 .home { 
-  padding: $value-five;
   color: $color-three;
   background-image: url("../images/pexels-aleksandar-pasaric-2078076.jpg");
   background-size: $value-cover;
   width: $value-auto;
   height: $eight-hundred;
+  margin: $value-zero;
+  padding-top: $value-two;
 
   .home__title--style {
-    padding-top: $value-twelve;
     font-size: $font-size-title;
     text-align: $value-center;
+    color: $color-eight;
+  }
+}
+
+.category { 
+  color: $color-three;
+  background-color: $color-two;
+  margin: $value-zero;
+
+  .category__title--style {
+    font-size: $font-size-title-subpage;
+    text-align: $value-center;
+    color: $color-five;
   }
 
-  .home__header {
-    padding: $value-one;
-  
-    .home__navigation__menu {
-      color: $color-one;
-    }
-  
-    .home__navigation__menu--options {
-      list-style-type: $value-none;
-      text-align: $value-center;
-    }
-  
-    .home__navigation__menu--options--option {
-      padding: $value-three;
-    }
-  
-    .home__navigation__menu--options--option--link {
-      text-decoration: $value-none;
-      color: $color-three;
-    }
-  
-    .home__navigation__menu--options--option--link:hover {
-      color: $color-one;
+  .category__container--subtitle {
+    padding-left: $value-ten;
+    padding-right: $value-ten;
+  }
+
+  .category__container--subtitle--link {
+    color: $color-three;
+    text-decoration: $value-none;
+  }
+
+  .category__container--subtitle--link:hover {
+    color: $color-nine;
+  }
+
+  .category__container {  
+    display: $value-flex;
+    flex-wrap: $value-wrap;
+    margin: $value-five;
+    padding: $value-zero;
+
+    .category__container__modul--flex {  
+      margin: $value-two;
+      padding: $value-zero;
+      width: $value-forty;
+
+      .category__container__modul--flex--column  {  
+        list-style-type: $value-none;
+        text-decoration: $value-none;
+        line-height: $line-height;
+        text-align: $value-justify;
+      }
     }
   }
 }
 
-.home__footer {
-  margin-top: $one-half-rem;
+.category__container__frame {
+  margin: $value-zero;
+  padding: $value-zero;
+  padding-top: $value-two;
+  padding-bottom: $value-two;
+  width: $value-hundred;
+  background-color: $color-seven;
+
+  .category__container__frame--one--column  {  
+    list-style-type: $value-none;
+    text-decoration: $value-none;
+    line-height: $line-height;
+    margin: $value-zero;
+    padding-left: $value-ten;
+    padding-right: $value-ten;
+  }
+}
+
+.detail {
+  color: $color-three;
+  background-color: $color-two;
+  margin: $value-zero;
+
+  .detail__title--style {
+    font-size: $font-size-title-subpage;
+    text-align: $value-center;
+    color: $color-five;
+  }
+
+  .detail__container {  
+    display: $value-flex;
+    flex-wrap: $value-wrap;
+    margin: $value-five;
+    padding: $value-zero;
+  
+    .detail__container__modul--flex {  
+      margin: $value-two;
+      padding: $value-zero;
+      width: $value-forty;
+  
+      .detail__container__modul--flex--column  {  
+        list-style-type: $value-none;
+        text-decoration: $value-none;
+        line-height: $line-height;
+        text-align: $value-justify;
+      }
+    }
+  }
+
+  .detail__container {
+    margin: $value-zero;
+    padding: $value-zero;
+    padding-top: $value-two;
+    padding-bottom: $value-two;
+    width: $value-hundred;
+    text-align: $value-center;
+  
+    .detail__container--one--column  {  
+      list-style-type: $value-none;
+      text-decoration: $value-none;
+      line-height: $line-height;
+      margin: $value-zero;
+      padding-left: $value-ten;
+      padding-right: $value-ten;
+    }
+  }
+
+  .detail__container__frame {
+    margin: $value-zero;
+    padding: $value-zero;
+    padding-top: $value-two;
+    padding-bottom: $value-two;
+    width: $value-hundred;
+    background-color: $color-ten;
+  
+    .detail__container__frame--one--column  {  
+      list-style-type: $value-none;
+      text-decoration: $value-none;
+      line-height: $line-height;
+      margin: $value-zero;
+      padding-left: $value-ten;
+      padding-right: $value-ten;
+      padding-bottom: $value-fifteen;
+    }
+  }
+}
+
+.footer {
+  margin-top: $margin-top-footer-rem;
   font-size: $font-size-text-footer;
   text-align: $value-center;
   padding-top: $value-five;
-  padding-bottom: $value-twelve;
+  padding-bottom: $value-five;
   background-color: $color-four;
-  position: $value-absolute;
+  color: $color-two;
   bottom: $value-zero;
   width: $value-hundred;
-  color: $color-two;
-  line-height: $value-thirty-px;
-
-  .home__footer--link {
+  
+  .footer--link {
     list-style-type: $value-none;
     text-decoration: $value-none;
     color: $color-two;
   }
 }
 
+.element--fixed {
+  position: $value-fixed;
+}
+
+.element--centered--text {
+  text-align: $value-center;
+}
+
+.element--color--contrast {
+  background-color: $color-ten;
+}
 
 /* media query styles adapted for tablets and desktops*/
 @media (min-width: $tablet-min-devices) {
-  .home__navigation__menu--options {
+  .header__navigation__menu--options {
     text-align: $value-center;
 
-    .home__navigation__menu--options--option {
+    .header__navigation__menu--options--option {
       display: $value-inline;
     }
   }
   
-  .home__footer {
-    padding-bottom: $value-five;
+  .footer {
+    padding-bottom: $value-three;
   }
 }
 
@@ -95,7 +237,7 @@
     padding-top: $value-ten;
   }
   
-  .home__navigation__menu--options--option {
+  .header__navigation__menu--options--option {
     padding: $value-one;
   }
 }
