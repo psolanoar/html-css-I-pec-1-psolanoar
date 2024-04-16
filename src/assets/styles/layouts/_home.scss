@@ -35,7 +35,7 @@
   background-image: url("../images/pexels-aleksandar-pasaric-2078076.jpg");
   background-size: $value-cover;
   width: $value-auto;
-  height: $eight-hundred;
+  height: $eight-hundred-px;
   margin: $value-zero;
   padding-top: $value-two;
 
@@ -175,6 +175,44 @@
       padding-left: $value-ten;
       padding-right: $value-ten;
       padding-bottom: $value-fifteen;
+    }
+  }
+}
+
+.links {
+  color: $color-three;
+  background-color: $color-two;
+  margin: $value-zero;
+
+  .links__title--style {
+    font-size: $font-size-title-subpage;
+    text-align: $value-center;
+    color: $color-five;
+  }
+
+  .links__container--subtitle {
+    padding-left: $value-ten;
+    padding-right: $value-ten;
+  }
+
+  .links__container {  
+    display: $value-flex;
+    flex-wrap: $value-wrap;
+    margin: $value-five;
+    padding: $value-zero;
+  
+    .links__container__modul--flex {  
+      margin: $value-two;
+      padding: $value-zero;
+      width: $value-forty;
+  
+      .links__container__modul--flex--column  {  
+        list-style-type: $value-none;
+        text-decoration: $value-none;
+        line-height: $line-height;
+        text-align: $value-justify;
+        padding-bottom: $hundred-px;
+      }
     }
   }
 }
