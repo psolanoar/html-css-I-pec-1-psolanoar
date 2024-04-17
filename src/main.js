@@ -1,4 +1,4 @@
-function getNewsletter() {
+export function getNewsletter() {
     let userEmail = document.getElementById("email").value;
     let send;
     
