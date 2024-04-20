@@ -4,6 +4,7 @@
     <meta charset="utf-8"/>
     <title>Presentación</title>
     <link rel="stylesheet" type="text/css" href="./assets/styles/main.scss"/>
+    <script src="main.js"></script>
   </head>
   <body class="main">
     <main>
@@ -78,22 +79,6 @@
             <p>Introduce tu correo electrónico para recibir noticias, novedades, o futuros conciertos de Guns N'Roses.</p>
             <input id="email">
             <button type="button" onclick="getNewsletter()">Suscribirse</button>
-
-            <script>
-              function getNewsletter() {
-                let userEmail = document.getElementById("email").value;
-                let send;
-                
-                if (userEmail !== undefined && userEmail !== null) {
-                  send = "Subscipción realizada";
-                } else {
-                  send = "Email no apto";
-                }
-            
-                document.getElementById("newsletter").innerHTML = send;
-              }
-            </script>
-
             <p id="newsletter"></p>
         </div>
       </div>
