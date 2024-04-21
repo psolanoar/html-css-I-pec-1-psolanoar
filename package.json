@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "autor": "Patricia Solano",
-  "source": "src/home.html",
+  "source": "src/index.html",
   "scripts": {
     "start": "npm-run-all clean parcel:dev",
     "build": "npm-run-all clean parcel:build",
